@@ -1,28 +1,3 @@
 {
-  "clientes": [
-    {
-      "nombre": "Gabriel",
-      "empresa": "mate & meet",
-      "email": "sadsa@gmail.com",
-      "telefono": "0111",
-      "notas": "ninguna",
-      "id": 1
-    },
-    {
-      "nombre": "nico",
-      "empresa": "empresa de nico",
-      "email": "sddsa@gmail.com",
-      "telefono": "11",
-      "notas": "nuinguna",
-      "id": 2
-    },
-    {
-      "nombre": "elvis",
-      "empresa": "elvis corp y amigos",
-      "email": "elvis@gmail.com",
-      "telefono": "1111",
-      "notas": "Algo",
-      "id": 3
-    }
-  ]
+  "clientes": []
 }
